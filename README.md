@@ -1,1 +1,25 @@
-# algorithms-solutions
+# Intermediate Algorithm Solutions
+
+**from [fcc](https://www.freecodecamp.org/learn/)**
+
+* [Sum All Numbers in a Range](./intermediate-algorithm/sumAll.js)
+* [Diff Two Arrays](./intermediate-algorithm/diffArray.js)
+* [Seek and Destroy](./intermediate-algorithm/destroyer.js)
+* [Wherefore art thou](./intermediate-algorithm/whatIsInName.js)
+* [Spinal Tap Case](./intermediate-algorithm/spinalCase.js)
+* [Pig Latin](./intermediate-algorithm/translatePigLatin.js)
+* [Search and Replace](./intermediate-algorithm/)
+* [DNA Pairing](./intermediate-algorithm/)
+* [Missing letters](./intermediate-algorithm/)
+* [Sorted Union](./intermediate-algorithm/)
+* [Convert HTML Entities](./intermediate-algorithm/)
+* [Sum All Odd Fibonacci Numbers](./intermediate-algorithm/)
+* [Sum All Primes](./intermediate-algorithm/)
+* [Smallest Common Multiple](./intermediate-algorithm/)
+* [Drop it](./intermediate-algorithm/)
+* [Steamroller](./intermediate-algorithm/)
+* [Binary Agents](./intermediate-algorithm/)
+* [Everything Be True](./intermediate-algorithm/)
+* [Arguments Optional](./intermediate-algorithm/)
+* [Make a Person](./intermediate-algorithm/)
+* [Map the Debris](./intermediate-algorithm/)
