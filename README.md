@@ -8,7 +8,7 @@
 * [Wherefore art thou](./intermediate-algorithm/whatIsInName.js)
 * [Spinal Tap Case](./intermediate-algorithm/spinalCase.js)
 * [Pig Latin](./intermediate-algorithm/translatePigLatin.js)
-* [Search and Replace](./intermediate-algorithm/)
+* [Search and Replace](./intermediate-algorithm/myReplace.js)
 * [DNA Pairing](./intermediate-algorithm/)
 * [Missing letters](./intermediate-algorithm/)
 * [Sorted Union](./intermediate-algorithm/)
