@@ -21,7 +21,7 @@
 * [Search and Replace](./intermediate-algorithms/myReplace.js)
 * [DNA Pairing](./intermediate-algorithms/pairElement.js)
 * [Missing letters](./intermediate-algorithms/fearNotLetter.js)
-* [Sorted Union](./intermediate-algorithms/uniteUnion.js)
+* [Sorted Union](./intermediate-algorithms/uniteUnique.js)
 * [Convert HTML Entities](./intermediate-algorithms/convertHTML.js)
 * [Sum All Odd Fibonacci Numbers](./intermediate-algorithms/sumFibs.js)
 * [Sum All Primes](./intermediate-algorithms/sumPrimes.js)
